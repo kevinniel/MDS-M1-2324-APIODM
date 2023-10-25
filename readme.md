@@ -6,7 +6,7 @@ Réalisation d'un API sur Star Wars
 - Choix de la technologie libre par groupe
 
 travail en groupe de 2 ou 3 au choix
-
+Github obligatoire
 
 ## Objectif : 
 
@@ -23,7 +23,12 @@ travail en groupe de 2 ou 3 au choix
 - https://www.postman.com/
 
 ## Dates cours : 
-à venir
+
+- mercredi 25 octobre 2023 - jour entier
+- mardi 14 novembre 2023 - jour entier
+- mardi 23 janvier 2024 - jour entier
+- mardi 13 février 2024 - jour entier
+- mardi 05 mars 2024 - jour entier
 
 ## Barème d'évaluation
 - les 5 routes du modèle REST sont implémentées pour la ressource PEOPLE (Create, Read ALL, Read ONE, Update, Delete)
@@ -35,3 +40,13 @@ travail en groupe de 2 ou 3 au choix
 - un fichier readme est présent et explique ce qu'est le modèle de richardson et comment vous l'avez respecté
 - un fichier swagger.json doit être présent et contenir votre documentation SWAGGER (doit fonctionner sur https://editor.swagger.io/)
 - JWT est implémenté et l'ensemble des routes autre que auth sont bloquées (optionnel)
+
+## Groupes 
+- 1 : Pierre, Nathan, Léo ()
+- 2 : Moussa, Houcine, Théo ()
+- 3 : Hugo, Guillaume, Davy ()
+- 4 : Anaelle, Jules ()
+- 5 : Clément, Walid, Bastien ()
+- 6 : Lisa, Yassine ()
+
+## Présentation orale par groupe de chaque travaux aec justification le DERNIER JOUR !
