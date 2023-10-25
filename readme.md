@@ -10,8 +10,8 @@ travail en groupe de 2 ou 3 au choix
 
 ## Objectif : 
 
-1. réintégrer l'ensemble des données dans Mongo, puis proposer des routes pour les redistribuer.
-2. Documenter votre API avec SWAGGER
+1. réintégrer l'ensemble des données, puis proposer des routes pour les redistribuer.
+2. Documenter votre API avec [SWAGGER](https://editor.swagger.io/) 
 3. Mettre en place une authentification avec JWT et les routes qui vont avec
 
 
