@@ -46,7 +46,7 @@ Github obligatoire
 - 2 : Moussa, Houcine, Théo (https://github.com/HC-DevE/swapi-clone)
 - 3 : Hugo, Guillaume, Davy (https://github.com/Bryndye/SWAPIBELIKE)
 - 4 : Anaelle, Jules (https://github.com/ZeaNa7/api-swapi)
-- 5 : Clément, Walid, Bastien ()
+- 5 : Clément, Walid, Bastien (https://github.com/BastiennM/tp_api_rest)
 - 6 : Lisa, Yassine (https://github.com/Yassinedevs/API-REST)
 
 ## Présentation orale par groupe de chaque travaux aec justification le DERNIER JOUR !
