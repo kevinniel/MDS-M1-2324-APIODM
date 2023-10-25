@@ -3,7 +3,7 @@
 Réalisation d'un API sur Star Wars
 - Respect du modèle de Richardson
 - Respect des 5 règles du REST
-- Techs : node / express / mongo (mongoose obligatoire)
+- Choix de la technologie libre par groupe
 
 travail en groupe de 2 ou 3 au choix
 
