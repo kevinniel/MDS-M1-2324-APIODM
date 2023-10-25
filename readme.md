@@ -42,7 +42,7 @@ Github obligatoire
 - JWT est implémenté et l'ensemble des routes autre que auth sont bloquées (optionnel)
 
 ## Groupes 
-- 1 : Pierre, Nathan, Léo ()
+- 1 : Pierre, Nathan, Léo (https://github.com/PierrePineau/swapi-fastify)
 - 2 : Moussa, Houcine, Théo (https://github.com/HC-DevE/swapi-clone)
 - 3 : Hugo, Guillaume, Davy (https://github.com/Bryndye/SWAPIBELIKE)
 - 4 : Anaelle, Jules (https://github.com/ZeaNa7/api-swapi)
