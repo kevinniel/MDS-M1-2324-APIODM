@@ -31,7 +31,7 @@ Github obligatoire
 - mardi 14 novembre 2023 - jour entier
 - mardi 23 janvier 2024 - jour entier
 - mardi 13 février 2024 - jour entier
-- mardi 05 mars 2024 - jour entier
+- mardi 05 mars 2024 - jour entier ==> 3h éval l'apres-midi - 30 minutes par groupe (10/15 mins prez + Q/R + notation)
 
 ## Barème d'évaluation
 - les 5 routes du modèle REST sont implémentées pour la ressource PEOPLE (Create, Read ALL, Read ONE, Update, Delete)
