@@ -13,6 +13,7 @@ Github obligatoire
 1. réintégrer l'ensemble des données, puis proposer des routes pour les redistribuer.
 2. Documenter votre API avec [SWAGGER](https://editor.swagger.io/) 
 3. Mettre en place une authentification avec JWT et les routes qui vont avec
+4. [AJOUT 23/01/24] Mettre en place un système de journalisation (Sentry) pour la gestion de toutes les erreurs
 
 
 ## Liens utiles
@@ -21,6 +22,8 @@ Github obligatoire
 - Richardson : https://guide-api-rest.marmicode.fr/api-rest/le-modele-de-maturite-de-richardson (SWAPI intègre déjà le modèle de richardson !)
 - https://editor.swagger.io/
 - https://www.postman.com/
+- [AJOUT 23/01/24] https://docs.sentry.io/
+- [AJOUT 23/01/24] https://fr.agilitest.com/blog/unlocking-the-power-api-testing-comprehensive-guide
 
 ## Dates cours : 
 
@@ -49,4 +52,15 @@ Github obligatoire
 - 5 : Clément, Walid, Bastien (https://github.com/BastiennM/tp_api_rest)
 - 6 : Lisa, Yassine (https://github.com/Yassinedevs/API-REST)
 
-## Présentation orale par groupe de chaque travaux aec justification le DERNIER JOUR !
+## [AJOUT 23/01/24] Travaux de recherches complémentaires (à intégrer dans la présentation)
+
+- Fonctionnement global de POSTMAN (incluant la gestion des routes (dossiers, etc...), la gestion des variables (internes à postman) et la gestion automatique des bearers via l'outil)
+- Étudier les tests de montée en charge :
+  - Enjeux et facteurs
+  - les différents types (résistance, endurance, pointe, performance)
+  - identifier et décrire succinctement les outils de monitoring open-source et cloud du marché
+  - identifier et décrire succinctement les outils de test de charge open-source et cloud du marché
+
+
+
+## Présentation orale par groupe de chaque travaux avec justifications le DERNIER JOUR !
